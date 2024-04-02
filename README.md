@@ -1,4 +1,4 @@
 # MyProject
-Hotel Management GUI
+Online Hotel Management GUI
 <br>
 Author : Prasad Deshmukh
